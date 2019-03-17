@@ -1,5 +1,6 @@
-%~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~%
-% Program Details:  implementation of Finite difference scheme for a 
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~%
+% Author: Mangesh Sonawane
+%Program Details:  implementation of Finite difference scheme for a 
 %simple undamped harmonic oscillator
 % In this x3 is future variable i.e. (n+1)
 % x2 is present variable i.e. (n)
